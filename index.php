@@ -1,5 +1,6 @@
 <?php
 
+echo "prueba";
         // Define la ruta al archivo
         $ruta_archivo = 'C:\Users\User01\Desktop\Prueba\prueba.txt';
         // Comprueba si el archivo existe
