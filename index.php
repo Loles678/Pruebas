@@ -1,6 +1,7 @@
 <?php
-class kiosko{
-    function checkPermission()
+
+checkPermission();
+    public function checkPermission()
     {
         // Define la ruta al archivo
         $ruta_archivo = 'C:\Users\User01\Desktop\Prueba\prueba.txt';
@@ -20,4 +21,4 @@ class kiosko{
             $data['prueba'] = "Error de contenido";
         }
     }
-}
+?>
